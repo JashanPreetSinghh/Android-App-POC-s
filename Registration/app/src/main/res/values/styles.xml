@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+
+        <style name="button" parent="@android:style/Widget.Button">
+            <item name="android:gravity">center_vertical|center_horizontal</item>
+            <item name="android:textColor">#333333</item>
+            <item name="android:shadowColor">#3333ff</item>
+            <item name="android:shadowDx">0</item>
+            <item name="android:shadowDy">-1</item>
+            <item name="android:shadowRadius">0.2</item>
+            <item name="android:textSize">50dp</item>
+            <item name="android:textStyle">bold</item>
+            <item name="android:background">@drawable/button</item>
+            <item name="android:focusable">true</item>
+            <item name="android:clickable">true</item>
+        </style>
+        <color name="guideLineHeader">#006400</color>
+        <color name="guideLine1">#333333</color>
+    <style name="AppTheme" parent="android:style/Theme.NoTitleBar">
+        <item name="android:buttonStyle">@style/button</item>
+    </style>
+</resources>

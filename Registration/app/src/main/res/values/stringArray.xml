@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Racf_ID_array">
+
+        <item>PU00137	Kedar Harischandrakar		Information Management</item>
+        <item>PU00142	Megha Kulshrestha		ISG </item>
+        <item>PU00137	Kedar Harischandrakar		Information Management</item>
+        <item>PU00186	Ashish Tiwari	ISG</item>
+        <item> PU00167	Anand Vaidya		CPS</item>
+        <item>  PU00149	Anand Kumar		CPS</item>
+        <item> PU00144	Susheel Belan	JDF</item>
+        <item> PU00151	Amit Borate	ISG</item>
+        <item> PU00163	Reshma Dharmadhikari	PDP</item>
+        <item> PU00100	Sachin Hirdekar	ISG</item>
+        <item> PU00177	Karim Gunjarge		Architecture</item>
+        <item>  PU00165	Amol Phadke	JDF</item>
+        <item>  PU00194	Sai Krishna Karri		Information Management</item>
+        <item>  PU00134	Kishore Kumar		Information Management</item>
+        <item>  PU00071	Rajesh Muppaneni		CAP</item>
+        <item>   MA82235	Ayaz Mohamed	SPE</item>
+        <item>   PU00127	Suhail Ansari	ISG</item>
+        <item>   PU00135	Swapnil Dhawde	ISG</item>
+        <item>    PU00160	Shashikant Kale		CPS</item>
+        <item>    PU00190	Ruchitgiri Goswami	  	GCS Database Service</item>
+        <item>     PU00153	Abhijit Baji		BITS</item>
+        <item>     PU00156	Mandar Chatufale	PDP</item>
+        <item>     PU00119	Pranjali Patil	PDP</item>
+        <item>     PU00158	Chandrashekhar Mahajan	Parts</item>
+        <item>    RR13025	Ramasubba Reddymallu		HR</item>
+        <item>   NM40778	Naeem Shaikh M		CAP</item>
+        <item>   SP40678	Sanjib Panda	Parts</item>
+        <item>  PU00162	Amit Joshi	Parts</item>
+        <item> PU00068	Hari Bolneedi		CPS</item>
+        <item> NK31659	Naveen Kandakatla	JDF</item>
+        <item>  VJ55916	Vinit Jain	PDP</item>
+        <item>  PS31186	Paritosh Sinha	ISG</item>
+        <item>   PP20638	Pallavi Patil		DWIS</item>
+        <item>  BB71495	Bhushan Bhonde		CAP</item>
+        <item>  CP35580	Chandrashekhar Pottumutu		HR</item>
+        <item> RK70884	Rakesh Kowtikwar		SAP Manufacturing Solutions</item>
+        <item> AR41843	Ashok Ramakrishnan		IKC</item>
+        <item>  SS21193	Shailesh Singh	  	GCS Database Service</item>
+        <item>   KJ20560	Kalpesh Joshi	PDP</item>
+        <item>   DP10808	Devi Pulivendala		CPS</item>
+        <item>   DS90483	Digvesh Singh		SAP Manufacturing Solutions</item>
+        <item>    SG50221	Snehal Gokhale	Parts</item>
+
+        <item> PB64108	Parimal Bunage		CAP</item>
+        <item>  AD30697	Amit Dixit	ISG</item>
+        <item>  YS00770	Yogesh Shinde		CPS                                       </item>
+        <item>  BR60557	Bhupinder Singh Randhawa	PDP	Process</item>
+        <item>  PN41140	Pankaj Naik	PDP</item>
+        <item>  AG85393	Amit Gadkari		Architecture                                  </item>
+        <item>  AS80345	Abhishek Shukla Kumar	Parts                                  </item>
+        <item>  NS43550	Nilesh Sharma	ISG                                  </item>
+        <item>  BB51802	Balkrishna Bhosale		SAP Manufacturing Solutions                            </item>
+        <item>  GM41323	Gautam Motwani	JDF                            </item>
+        <item>  AB39760	Ashwini Vayase	ISG                            </item>
+        <item>  VC83686	Vivek Chitale		CPS                            </item>
+        <item> RP71018	Rajesh Pillai		Enabling                            </item>
+        <item>  SP76477	Siddhesh Pathak		Enabling                            </item>
+        <item>  VB09104	Vikas Bhagwat		Enabling                            </item>
+        <item>  TK51959	Tejaswini Khante		Enabling                            </item>
+        <item>  AT52858	Amarendar Tummala		ISG                            </item>
+        <item>  HJ33153	Harshal Joglekar		CAP                            </item>
+        <item>  ST86105	Saili Tipnis		Business Analytics                            </item>
+        <item>   SR22194	Saravanan Subbiah		IKC                            </item>
+        <item>   SK97833	Sunil Kondameedi		JDF                            </item>
+        <item>  SG53243	Srikanth Gujjar		JDF                            </item>
+        <item>  KM32822	Kishor Mohite		Information Management                            </item>
+        <item>  NK71595	Nimish Kasar	PDP                            </item>
+        <item> AK32746	Amit Koul	ISG                            </item>
+        <item>  WF50267	Wajeeh Farooqui		CAP                            </item>
+        <item>  NS30763	Narayana Sheregara	ISG                            </item>
+        <item>  VS50864	Vinay Somvanshi		CAP                            </item>
+        <item>  HD53015	Hemant Dhakate		CPS                            </item>
+        <item>  PW78173	Parimal Wattal	Parts                            </item>
+        <item>  MS60123	Sreejith Manikandan		Information Management                            </item>
+        <item>   VB10915	Vishal Bhatnagar	PDP                            </item>
+        <item>   AP50864	Siva Prakash Aravam	ISG                            </item>
+        <item>   AM60696	Ananda Suresh	JDF                            </item>
+        <item>   HK41630	Hariprasad Kukalakunta	JDF                            </item>
+        <item>  RY11969	Rajesh Yadla	JDF                            </item>
+        <item>  MS51114	Mohammed Saleem		CAP </item>
+        <item>  NB41387	Neeraj Bholani	ISG </item>
+        <item>   SB30158	Shrikrishna Bharati	JDF </item>
+        <item>   AK50214	Anurag Khare		Enabling </item>
+        <item>   OW52114	Om Wadekar	ISG </item>
+        <item>   RD60141	Rahul Deshpande		CPS </item>
+        <item>   VD00738	Vivek Dixit	ISG </item>
+        <item>   SJ31284	Sudhanshu Joshi		ISG </item>
+        <item>   SD72670	Shriram Deshpande		Enterprise Architecture </item>
+        <item>   DT73308	Deepak Tiwari	ISG </item>
+        <item>  UK60979	Umamaheswara Raju Kallepalli		Information Management </item>
+        <item>   SB04157	Somesh Baratakke		CPS </item>
+        <item>   BG69063	Bhimaraju Goteti	PDP	Process </item>
+        <item>  SS65749	Swamy Singamaneni	SPE </item>
+        <item>  ST91189	Saroj Kumar Tripathy		IKC </item>
+        <item>   DS25740	Dinesh Sant		CAP </item>
+        <item>   RS52306	Rahul Sanas		CPS </item>
+        <item>    BB12270	Bijay Bhuyan	Parts	Order Management </item>
+        <item>   SK50866	Sachin Kasliwal		CPS </item>
+        <item>   GM61994	Gopalkrishnam Madunuri		Order Management </item>
+        <item>   SD80241	Sukdev Das		Business Analytics </item>
+        <item>   BM43657	Bhawdish Mathur	  	GCS Database Service </item>
+        <item>  PM71923	Poonam Mahajan		JDF </item>
+        <item>  VS61638	Vinod Shelokar		IKC </item>
+        <item> AR82052	Anup Raiker	PDP	TCI </item>
+        <item>  AI25513	Aadarsh Iyer		CAP </item>
+        <item>  ST41325	Shruti Tandon		CPS </item>
+        <item> SN71285	Sachin Naidu		CAP </item>
+        <item> SG80558	Sandeep Gandhe	ISG </item>
+        <item> AP10837	Anil krishna Poluri		Enabling </item>
+        <item> RM01625	Ramarao Meesala	JDF </item>
+        <item>  NM81885	Nitin Mahalle	ISG </item>
+        <item> AG40551	Amod Gupte	  	GCS Database Service       </item>
+        <item>  SP30746	Siddheshwar Potpite	JDF       </item>
+        <item>  DY28184	Deepa Yadav		Parts       </item>
+        <item>  MS00146	Madhavi Selokar	ISG       </item>
+        <item> AK51102	Ajit Kumar	JDF       </item>
+        <item>  HB20310	Hemant Baraliya		Information Management       </item>
+        <item>  SM20656	Sagar Mali	  	GCS Database Service       </item>
+        <item>  AK51602	Abdul Khan		CPS       </item>
+        <item>  MP42012	Megha Pokley	ISG       </item>
+        <item>  UC40428	Umesh Chikate	PDP       </item>
+        <item>   PA70582	Pradeep Arote		Enabling       </item>
+        <item>  SP70128	Supriya Narawade		IKC       </item>
+        <item>  VG41320	Vivek Gagrani		CAP       </item>
+        <item> HS30946	Himanshu Shukla		Process       </item>
+        <item> AA51256	Ajay Awhale	PDP       </item>
+        <item> SP41620	Sushil kumar Patil	PDP       </item>
+        <item> RG02176	Rohit Goyal		CPS       </item>
+        <item>  VW21502	Vijay Wankhade		Enabling      </item>
+        <item>  MK71220	Mandar Kale	JDF      </item>
+        <item>  DI21365	Devendra Inturi		Enabling      </item>
+        <item>  NS12823	Neha Shukla		SAP Manufacturing Solutions      </item>
+        <item>  VP71051	Vaibhav Pradhan	Parts      </item>
+        <item> JD74948	Jaywardhan Deochake		CAP      </item>
+        <item> AP21710	Aditya Patro	ISG      </item>
+        <item>  PB27597	Pankaj Bharambe		CAP      </item>
+        <item> GN42181	Gabbar Narwaria	ISG      </item>
+        <item> SJ51403	Sandeep Jain	JDF      </item>
+        <item>  PS40574	Pranali Sonune		CAP      </item>
+        <item> AS81948	Abhishek Shandilya	PDP      </item>
+        <item> RD41177	Ritesh Dubey		Order Management      </item>
+        <item>  HJ00791	Harshad Joshi	  	GCS Database Service      </item>
+        <item>  YS60156	Yogesh Sonar	Parts      </item>
+        <item>  SV90668	Suresh Babu Vattikuti		DWIS      </item>
+        <item> SK81510	Satish Kumar	PDP      </item>
+        <item> PV61592	Pramod Kumar Vanga		CAP      </item>
+        <item> VG31182	Vijay Gopal		Information Management      </item>
+        <item>  MJ31659	Jaswantsurya Mallavalli		CAP      </item>
+        <item>  AS70507	Ankush Shiledar	Parts      </item>
+        <item> PK70782	Pratik Kothari		CPS      </item>
+        <item> SP21993	Sheetal Yewale		CAP      </item>
+        <item>  PD30820	Pragya Dangarh	ISG      </item>
+        <item>  DP40586	Devendra Panchwagh		Information Management      </item>
+        <item> MF21593	Mohd Fahad		CAP      </item>
+        <item>  AK90962	Anand Krishna	ISG      </item>
+        <item> MG30758	Manu Gupta		CPS      </item>
+        <item>  AS30820	Ashish Sharma		Enabling      </item>
+        <item>  MS60841	Mayur Satpute		Enabling      </item>
+        <item>  BG11266	Birendra Gope		CPS      </item>
+        <item>  NK60879	Nilesh Khavat		CPS      </item>
+        <item>  PS30920	Prashant Shetty	PDP      </item>
+        <item>   PD92763	Prashant Deshmukh		CPS      </item>
+        <item>  RT60121	Ravikanth Tummalapalli		Enabling      </item>
+        <item>  RV65644	Rishabh Varshney	JDF      </item>
+        <item> MA02619	Muhammed Arif	ISG      </item>
+        <item>  SP63668	Suhas Patil		ISG      </item>
+        <item>  AS43737	Akshata Suvarna	ISG      </item>
+        <item>  AS82273	Abhijeet Shewale	ISG      </item>
+        <item>   SV10197	Sachin Vishwase		CAP      </item>
+
+
+        <item>  RC90383	Rakhi Chandak	  	GCS Database Service                         </item>
+        <item> JR34696	Jayesh Rode		CAP                         </item>
+        <item>  AT40639	Archana Thombarapu		Enabling                         </item>
+        <item>  NL55916	Nisha Lohani		CPS                         </item>
+        <item>  SK01100	Sujendra Kumar		CAP                         </item>
+        <item>  SN91702	Sreedhar Nimmagadda		Enabling                         </item>
+        <item>   AD34596	Achyut Dake		HR                         </item>
+        <item>  SP71452	Srikanth Podishetty		IKC                         </item>
+        <item>  AK72958	Atul Kudegave		SAP Manufacturing Solutions                         </item>
+        <item>  SJ92344	Shital Kesare		CAP                         </item>
+        <item>  DW30749	Dnyandev Warik	ISG                         </item>
+        <item>   SV82773	Shaifali Vasudeva	Parts                         </item>
+        <item>   AG61346	Aditya Gupta		CPS                         </item>
+        <item>  AK71517	Amit Kumar		Information Management                         </item>
+        <item>  NM41834	Naziya Malek		Business Analytics                         </item>
+        <item>  AM50718	Aparna Mahajan		CPS                         </item>
+        <item> PK62633	Priyanka Korade		ISG                         </item>
+        <item>  SN71245	Suraj Nair		Enabling                         </item>
+        <item>  DP57992	Durga Patil		Parts                         </item>
+        <item>  PV88067	Praveenkumar V	ISG                         </item>
+        <item>   PK35144	Prabal Kumar		Architecture                         </item>
+        <item>  VG41157	Vijeya Goteti	ISG                         </item>
+        <item>  VG04194	Viji George	ISG                         </item>
+        <item>   SK44288	Smita Kangane		CPS                         </item>
+        <item>  SS21830	Saamiya Shaikh		DWIS                         </item>
+        <item>  SV29200	Shivam Verma	JDF                         </item>
+        <item>  AS47458	Ashish Shukla	  	GCS Database Service                         </item>
+        <item>  KA88982	Kanchan Agarwal		CPS                         </item>
+        <item>   BL00389	Bharati Lolap	JDF                         </item>
+        <item>  LP95421	Lakshmi Peram 		CAP                         </item>
+        <item>   HK55476	Hemangi Khairnar	ISG                         </item>
+        <item>  MP01364	Manisha Patil		IKC                         </item>
+        <item>   PI37256	Pallavi Mohan Igave	ISG                         </item>
+        <item>   DK38278	Dilshad Khan	ISG                         </item>
+        <item>   CK83323	Chaitanya Kulkarni	ISG                        </item>
+        <item> MK31711	Mayuri Kudale	JDF                        </item>
+        <item> VU63122	Vishal Ugalmugale	PDP                        </item>
+        <item> NP77031	Pathan N N		Manufacturing Planning Solutions                        </item>
+        <item> AS76513	Amol Shinde		CAP                        </item>
+        <item>  KG40143	Kanifnath Gaikwad	PDP                        </item>
+        <item> SB80168	Shreesh Basatwar		IKC                        </item>
+        <item> YN23373	Yagnesh Nerpagar		Shop Floor and Quality Solutions                        </item>
+        <item>  SD79233	Shishir Deshmukh		Enabling                        </item>
+        <item> SP22252	Sharad Powar		CPS                        </item>
+        <item>  NL02115	Nishant Lohani		CPS                        </item>
+        <item>  US57023	Uday Raj Singh Gumasta	ISG                        </item>
+        <item>   ST28528	Sravani Tammana		BITS                        </item>
+        <item>   BS83420	Bhagwat Sharma	JDF                        </item>
+        <item>   RM52840	Rahul Mahajan	JDF                        </item>
+        <item>   KS40835	Kumar Sudesh	  	GCS Database Service                        </item>
+        <item>  KW95409	Kunal Warudkar		Enabling                        </item>
+        <item>  RR08438	Romit Raina		Enabling                        </item>
+        <item>  SB25587	Shwetha Bhat	JDF                        </item>
+        <item>  DR17369	Deepa Rikame		JDF                        </item>
+        <item>  PK90164	Prashant Kutade	ISG                        </item>
+        <item>  NJ86432	Navneet Jain	JDF                        </item>
+        <item>   SM86621	Satish Muley		BITS                        </item>
+        <item>  TB92436	Tandra Bidyananda	JDF                        </item>
+        <item>  VU93695	Vandana Umarani		CAP                        </item>
+        <item>  NB91436	Nikhil Bhandari 		CAP                        </item>
+        <item>  AG06990	Abhijeet Gudge		CPS                        </item>
+        <item>  AK78443	Abhilash K	Parts                        </item>
+        <item>  AS36865	Amruta Warik	ISG                        </item>
+        <item>  AS89362	Anurag Singh		CPS                        </item>
+        <item>  DA77241	Dipak Askand	PDP                        </item>
+        <item>   HU10932	Hina Upadhyay		JDF                        </item>
+        <item>   IN97045	Ishwar Nimkar		CPS                        </item>
+        <item>   KS94180	Kanij Sheikh	ISG                        </item>
+        <item>  KD73184	Ketaki Deshmukh		CAP                        </item>
+        <item>   ND63093	Nitu Datir		CPS                        </item>
+        <item>  PL99743	Pramod Landge		JDF                        </item>
+        <item>  RR71033	Ravi Ranjan	PDP                        </item>
+        <item>  RD52239	Rishi Dashora		ISG                        </item>
+        <item>  SV41402	Swapnil Vaze 	  	GCS Database Service                        </item>
+        <item> SJ78241	Swarnit Jain 	ISG                        </item>
+        <item> VP29738	Vaishali Patil 	ISG                        </item>
+        <item>  VA04939	Vinay Adaki		CAP                        </item>
+        <item> AK05170	Abhinek Kumar	ISG                        </item>
+        <item>  TG35364	Tanmaya Gupta	JDF                        </item>
+        <item>  HG27465	Hemant Gandhe		Enabling                        </item>
+        <item>  MR49735	Manisha Rupchandani	JDF                        </item>
+        <item>   RL90269	Ramesh Lavani		Shop Floor and Quality Solutions                        </item>
+        <item>    SK03644	Sivakrishna Reddy Karri		CAP                        </item>
+        <item>   VS41887	Vinita Shinde		CAP                        </item>
+        <item>  RN10761	Rohitkumar Ninawe	JDF                        </item>
+        <item>  PK96613	Priyanka Killedar	PDP                        </item>
+        <item>CA92883	Chetan Agarwal		CPS                        </item>
+        <item>  CK13680	Chanky Kewalramani	Parts                        </item>
+        <item>  AJ91971	Arun Jadhav		Enabling                        </item>
+        <item>   RA68992	Ritu Agrawal		ISG                        </item>
+        <item>   VS09497	Vivekanand Saraf		CAP                        </item>
+        <item> NS97395	Nitin Singh		CPS                        </item>
+        <item>  AA18231	Appasaheb  Adekar		Enabling                        </item>
+        <item>   FN25908	Farhanaj Nayak		Information Management                        </item>
+        <item>   SH81326	Sourabh Hakim		ISG                        </item>
+        <item>   SM83238	Samir Magar	  	GCS Database Service                        </item>
+        <item>   DJ57741	Dipti Jain		CAP                        </item>
+        <item>  KH90371	Kalyani Hedaoo		Enabling                        </item>
+        <item>  MW30660	Manjushree Waghmale	  	GCS Database Service                        </item>
+    <item> MH32762	Manas Hardikar	PDP                        </item>
+        <item> DN43403	Dipali Nalawade	ISG                        </item>
+        <item> RC56285	Richa Chawla		HR                        </item>
+        <item> KN78191	Naresh Kosaraju		Business Analytics                        </item>
+        <item> PM01635	Pravin Mandwe 	  	GCS Database Service                        </item>
+        <item>  SB29588	Srinivasu Borusu		IKC                        </item>
+        <item> NK60019	Neeta Kulkarni	JDF                        </item>
+        <item>  NK03325	Nitish Kholkute		Business Analytics                        </item>
+        <item>   PB97582	Pallavi Bhoite		CAP                        </item>
+        <item>  PN33031	Pankaj Nahar		Business Analytics                        </item>
+        <item>  SM11912	Satarmaker Mahefuzurraheman	JDF                        </item>
+        <item>  SD18282	Snehal Dongare	Parts                        </item>
+        <item>  UK31130	Utkarsha Khadke		Enabling                        </item>
+        <item> GG26719	Gayatri Gadre		Enabling                        </item>
+        <item> GM52633	Gopi Manimaran 	Parts                        </item>
+        <item> HD17670	Hridoy Das		Business Analytics                        </item>
+        <item>  LS66927	Lakhan  Sarada		Enabling                        </item>
+        <item>  MP99178	Mamta Pathak		Information Management                        </item>
+        <item> YA95304	Yogesh Antre		SAP Manufacturing Solutions                        </item>
+        <item> NG58485	Nilesh Gajare		JDF                        </item>
+        <item> BB82560	Bhavana Bagate		HR                        </item>
+        <item>  SR66494	Supriya Raut		Order Management                        </item>
+        <item>  AT13869	Archana Talekar	ISG                        </item>
+        <item>  SK48927	Smita Kharkate	ISG                        </item>
+        <item>  VS26364	Vijay Shinde	Parts                        </item>
+        <item>  JM39940	Jaykishan Mandani	ISG                        </item>
+        <item>  GB35631	Girish Baharghare	  	GCS Database Service                        </item>
+        <item>   RK09104	Rushikesh Kadam		Information Management                        </item>
+        <item>   MS71220	Mahesh Shitut		CAP                        </item>
+        <item>   MR02206	Minal Rajurkar		Business Analytics                        </item>
+        <item>   MM81814	Manish Majumdar		Enabling                        </item>
+        <item>  VB37887	Vinit Bitla		BITS                        </item>
+        <item>  TC48852	Tejaswi Chandak		Enabling                        </item>
+        <item>   UM19335	Umesh Mahamuni	ISG                        </item>
+        <item>   SK05504	Snehal Kataria	ISG                        </item>
+        <item>   SM02987	Shailesh Mugatkar		CAP                        </item>
+        <item>    MV07517	Madhusudan Vishnupurikar	ISG                        </item>
+        <item>    RV49941	Rajesh Vaishya		CAP                        </item>
+        <item>  PB18560	Pranoti Bhambure	JDF                        </item>
+        <item>   RD31730	Rajkumar Durairaj		Enabling                        </item>
+        <item>   VB24049	Vijay Bhende		SAP Manufacturing Solutions                        </item>
+        <item>   GP59122	Ganesh Pisal		Architecture                        </item>
+        <item>    MA01820	Milind Awade		Manufacturing Planning Solutions                        </item>
+        <item>   CK88815	Chandan Konapure 		HR                        </item>
+        <item>   RA84805	Animish Raje		CAP                        </item>
+        <item>   PM37979	Pavundoss Muthuramalingam	PDP                        </item>
+        <item>   VD81907	Vedik Dalal	PDP                        </item>
+        <item>   DG87935	Deepti Gaiki		IKC                        </item>
+        <item>   PU00049	Amit Talwar	SPE                        </item>
+        <item>   AN92797	Akshay Nehe		Information Management                        </item>
+        <item>   AP91402	Anjali Prakash	  	GCS Database Service                        </item>
+        <item>   AK63502	Ashish Kulkarni	  	GCS Database Service                        </item>
+        <item>   DK75177	Divyesh Kalbhor		Information Management                        </item>
+        <item>   MZ41472	Minal Zagade		CPS                        </item>
+        <item>   PS59710	Pankaj Sonawane		CPS                        </item>
+        <item>   PS12127	Poorva Salve		Enabling                        </item>
+        <item>   PK79901	Prathamesh Kulkarni	  	GCS Database Service                        </item>
+        <item>   RS17855	Rohit Shedage		CAP                        </item>
+        <item>    SM01439	Satyajeet Mirkale	JDF                        </item>
+        <item>    SK97400	Shashank Kanth		Enabling                        </item>
+        <item>    SC25321	Shefali Chopkar		Enabling                        </item>
+        <item>    DR85201	DurgaPavan Narahari		CAP                        </item>
+        <item>    PK99341	Pravin Karne	ISG                        </item>
+        <item>   PY80333	Abhijit Vaste		CPS                        </item>
+        <item>  TD60879	Tushar Dalal		GPPM                        </item>
+        <item>  SM09586	Sarbajit Mohanty	JDF                        </item>
+        <item>   ST25757	Suneet Taparia	ISG                        </item>
+        <item>    BP70540	Biswa Ranjan Panda		Business Analytics                        </item>
+        <item>    VG13384	Vipul Goel	JDF                        </item>
+        <item>    AJ20547	Atul Joshi		Architecture                        </item>
+        <item>   SC62653	Srikanth CH		HR                        </item>
+        <item>   PU00148	Milind Kalyankar		CPS                        </item>
+        <item>   KA07004	Kanchan Arora		JDF                        </item>
+        <item>   PS07126	Pradeep Sundharagiri		Information Management                        </item>
+        <item>  SA84627	Sunil Amlathe	Parts                        </item>
+        <item>      KL14728	Kavita Latad		CAP                        </item>
+        <item>      SM85568	Shweta Mandavgane 		CPS                        </item>
+        <item>     AY70713	Anita Yadav	PDP                        </item>
+        <item>     NR95434	Neha Ranawade		Enabling                        </item>
+        <item>    NS68028	Narender Singh		Enabling                        </item>
+        <item>     PS55427	Poonam K. Sarode		Enabling                        </item>
+        <item>     OD66104	Om Dongre		IKC                        </item>
+        <item>    PS06678	Pratidnya Swami	Parts                        </item>
+        <item>     PG80882	Prachi Gulhane	PDP                        </item>
+        <item>    MM93842	Madhu Mattangi 	ISG                        </item>
+        <item>    PY80355	Akshay Shaha	PDP                        </item>
+        <item>     NC38165	Neeraj Chaudhary		Architecture                        </item>
+        <item>     MK80649	Manish Khare		BITS                        </item>
+        <item>    GS91773	Gulnaaz Shikalgar 		HR                        </item>
+        <item>   MS27346	Mahesh Pratap Singh	ISG                        </item>
+        <item>     AM20609	Abhishek Mishra	  	GCS Database Service                        </item>
+        <item>   RA14442	Rehan Akhtar 	PDP                        </item>
+        <item>   PU00122	Gaurav Gupta 	JDF                        </item>
+        <item>    VN64585	Venkata Narayana		CPS                        </item>
+        <item>    MK10573	Manoj Kulkarni	PDP                        </item>
+        <item>    GM07437	Geeta Menon 	JDF                        </item>
+        <item>    SS12945	Sonu Kumar Singh	ISG                        </item>
+        <item>    MO16546	Madhuri Oguri		CPS                        </item>
+        <item>    BS43147	Bhirgesh Kumar Sharma		CAP                        </item>
+        <item>   RG19186	Rachana Gupta	Parts                        </item>
+        <item>    DK36437	Dhiraj Kate	JDF                        </item>
+        <item>    MK95249	Mitali Kulkarni	ISG                        </item>
+        <item>    PA23108	Payal Agarwal	ISG                        </item>
+        <item>     AK74236	Aaradhana Khot	PDP                        </item>
+        <item>   NK77679	Neelnag Koul	JDF                        </item>
+        <item>   RM61594	Muthineni Rajender		Business Analytics                        </item>
+        <item>   SJ14047	Somesh Joshi 		CPS                        </item>
+        <item>   SP00368	Srinivas Potheri		Business Analytics                        </item>
+        <item>    SB66529	Satish Bhamare		CPS                        </item>
+        <item>    BS44280	Bharat Sahu	JDF                        </item>
+        <item>    SK98466	Satish Khakare	PDP                        </item>
+        <item>     KG98647	Kiran Gadad	PDP                        </item>
+        <item>     DJ80831	Dhananjay Joshi	PDP                        </item>
+        <item>    PP51538	Pratiksha Patil		Enabling                        </item>
+        <item>    GC14663	Gaurav Chaudhary	Parts                        </item>
+        <item>  AB60539	Akanksha Bhardwaj		CPS                        </item>
+        <item>   YJ78048	Yashita Jain		CPS                        </item>
+        <item>   AS71410	Avneet Singh		JDF                        </item>
+        <item>    GK26553	Garima Khera		IKC                        </item>
+        <item>    VG62108	Vishakha Gupta		CPS                        </item>
+        <item>    MD66805	Disha Mahajan		CAP                        </item>
+        <item>    DS47356	Devender Singh		CPS                        </item>
+        <item>    VY58168	Varsha Yewale 	PDP                        </item>
+        <item>    AB46214	Amit Beri	PDP                        </item>
+        <item>    MG95386	Meghna Gupta	Parts                        </item>
+        <item>    RK19492	Rishabh Kesharwani		CAP                        </item>
+        <item>   CS16641	Chandra Deep Singh		CAP                        </item>
+        <item>  AC22380	Anshuman Chaphekar  	PDP                        </item>
+        <item>  PG20209	Parul Gandhi	PDP                        </item>
+        <item>  RP77323	Rahul Rajiv Patil	PDP                        </item>
+        <item>   PD70193	Pallavi Deshmane		IKC                        </item>
+        <item>    RG55189	Roshni Goyal	PDP                        </item>
+        <item>   DS73207	Devarakonda Sumanth		CAP                        </item>
+        <item>    NS16335	Neetesh Pratap Singh		CPS                        </item>
+        <item>   AD96606	Akash Doshi  		CAP                        </item>
+        <item> DK20055	Digvijay Kumar	JDF                        </item>
+        <item>  VG92607	Vijaykumar Govindarajulu		Process                        </item>
+        <item>   SS00312	Shirish Sabnis		Manufacturing Planning Solutions                        </item>
+        <item>    SH69770	Sunil Hage 		FiHR                        </item>
+        <item>   PU00035	Rupali V Patil		Finance                        </item>
+        <item>   GP20293	Gunjan Pandey		Manufacturing Planning Solutions                        </item>
+        <item>    SB43655	Sriram Balasubramanian		Manufacturing Planning Solutions                        </item>
+        <item>   OP23238	Omkar Patil		Enabling                        </item>
+        <item>   NS30290	Nadim Sayyad	JDF                        </item>
+        <item>    AB94528	Amruta Bhosale		Enabling                        </item>
+        <item>  SS13087	Sophiya Shekh		Enabling                        </item>
+        <item>   DS09719	Dola Saha		Enabling                        </item>
+        <item>   KK31156	Kiranpreet Kaur		Information Management                        </item>
+        <item>  ND86991	Nupur Dhingra	Parts                        </item>
+        <item>   GK42891	Gurpreet Kaur	  	GCS Database Service                        </item>
+        <item>  RD61665	Rahul Dhawan	JDF                        </item>
+        <item>   RM77249	Raghav Mehra		Enabling                        </item>
+        <item>   AK38000	Arshdeep Kaur	  	GCS Database Service                        </item>
+        <item>   NG44239	Navjeet Singh Goraya		MDM                        </item>
+        <item>   RM05764	Rachit Madaan		Enabling                        </item>
+        <item>   PA68214	Priyanshi Aggarwal		Enabling                        </item>
+        <item>   PK28871	Prabhjot Kaur		IKC                        </item>
+        <item>   KP85775	Kamil Priya		CPS                        </item>
+        <item>  SG68094	Shilpa Goyal		Enabling                        </item>
+        <item>  SG76683	Shilpa Gupta	PDP                        </item>
+        <item>  MK58337	Mandeep Kaur	  	GCS Database Service                        </item>
+        <item>   RN93863	Raghav Nayyar	Parts                        </item>
+        <item>   KV58935	Kunal Vohra		CAP                        </item>
+        <item>   RT57607	Rubal Taneja		Enabling                        </item>
+        <item>   GS62582	Gaurav Shetye		CPS                        </item>
+        <item>   SA24995	Sanoopkumar Ambalaparambil		      FiHRE      </item>
+        <item>   AO43904	Ashish Ojha		CAP                        </item>
+        <item>   DK18408	Dinesh Korade		SAP Manufacturing Solutions                        </item>
+        <item>  SB57375	Sujay Bhambure		BITS                        </item>
+        <item>  GK48049	Girish Kulkarni		CPS                        </item>
+        <item>  SS70159	Shweta Sawant	  	GCS Database Service                        </item>
+        <item>  PY05037	Ratnakar Godbole		SAP Manufacturing Solutions                        </item>
+        <item>   PC66837	Priyank Chauhan		Enabling                        </item>
+        <item>   KU02345	U Kartheepan	  	GCS Database Service                       </item>
+        <item>   RL20234	Rahul Ligade	PDP                       </item>
+        <item>   RM61619	Rishiraj Mairal	Parts                       </item>
+        <item>   SB37836	Shrishial Banakar	Parts                       </item>
+        <item>    PT82582	Parag Thorat		FiHR                       </item>
+        <item>    SJ51117	Swati Jawanjale 		SAP Manufacturing Solutions                       </item>
+        <item>    MM90773	Manish Kumar Mandkaria		Enabling                       </item>
+        <item>   AS90038	Akash Sinha		Enabling                       </item>
+        <item>    VM06333	Varun Mahajan		CPS                       </item>
+        <item>    GS42141	Garima Sarangal		Enabling                       </item>
+        <item>   AS48940	Aayush Shangari	JDF                       </item>
+        <item>  PG93510	Pushti Gupta		CAP                       </item>
+        <item>   AM57823	Aayush Mehan	JDF                       </item>
+        <item>   AA74101	Abhishek Arjun	PDP                       </item>
+        <item>   NA55594	Nidhi Arora		Process                       </item>
+        <item>   JS84661	Jayant Sharma	JDF                       </item>
+        <item>    KJ52780	Koel Jindal		Enabling                       </item>
+        <item>     JS11017	Jashanpreet Singh	ISG                       </item>
+        <item>    BP73837	Biswajeet Pradhan		CPS                       </item>
+        <item>   IA70573	Ishleen Arneja		CAP                       </item>
+        <item>    CA87017	Chahat Arora	ISG                       </item>
+        <item>   MG49807	Muskaan Gumber	PDP	CPS                       </item>
+        <item>  SM63258	Sumit Murmu		Manufacturing Planning Solutions                       </item>
+        <item>   SK84451	Shashi Kumari	PDP	CAP                       </item>
+        <item>   SK57433	Siddhant Kumar		Manufacturing Planning Solutions                       </item>
+        <item>  RK98407	Rupinder Kaur		CAP                       </item>
+        <item>   AK27868	Amit Kumar	Parts                       </item>
+        <item>   SK20850	Sushant Kumar		Parts                       </item>
+        <item>   BS15458	Bhupinder Singh	Parts                       </item>
+        <item>   SA84500	Shreya Arora		CAP                       </item>
+        <item> JK06810	Jasmeen Kirmani		CPS                       </item>
+        <item> AS02712	Amol Deep Singh		Enabling                       </item>
+        <item>   AN74726	Ashish Negi		MDM                       </item>
+        <item>  PB00640	Parv Bansal		Enabling                       </item>
+        <item> NS37115	Navrozdeep Singh		CPS                       </item>
+        <item> HK13155	Harpreet Kaur	  	GCS Database Service                       </item>
+        <item> AS77524	Angarag Saikia	  	GCS Database Service                       </item>
+        <item> PP48498	Purnima Pallavi	PDP                       </item>
+        <item> SP79902	Sakshi Prabhakar	  	GCS Database Service                       </item>
+        <item> DJ57805	Divya Jyoti	PDP                       </item>
+        <item>PS76060	Prabhjot Sidhu		Enabling                       </item>
+        <item>  JK75126	Jashanpreet Kaur 	  	GCS Database Service                       </item>
+        <item> NP69160	Nissim Purandare		SAP Manufacturing Solutions                       </item>
+        <item> MQ87293	Mohammadraza Quadri	PDP                       </item>
+        <item> RM73367	Ritu Munot		CPS                     </item>
+        <item> KK67018	Kalpesh Khandare		CAP                     </item>
+        <item> MT68683	Tajuddin Mohammed		Manufacturing Planning Solutions                     </item>
+        <item> SP07112	Swarup Penshanwar		Manufacturing Planning Solutions                     </item>
+        <item> PS11466	Prabhdeep Singh		SAP Manufacturing Solutions                     </item>
+        <item> SS76856	Sankar Solasu		Enabling                     </item>
+        <item> TR42717 	Tushar Ranjan	JDF                     </item>
+
+    </string-array>
+
+</resources>

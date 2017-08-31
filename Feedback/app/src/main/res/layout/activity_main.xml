@@ -1,0 +1,117 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="wrap_content"
+    android:layout_height="wrap_content" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity" android:background="#FFFFFF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1" android:background="#ffffff"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="135dp"
+            android:id="@+id/imageView2"
+            android:src="@drawable/logo_new" android:background="#ffffff"
+            android:layout_gravity="center"/>
+
+        <TextView android:text="@string/mobile_open_house" android:layout_width="fill_parent"
+            android:layout_height="wrap_content" android:layout_weight="0.04"
+            android:textStyle="bold" android:textColor="#000000" android:textSize="25sp" android:gravity="center"
+            />
+
+        <ImageView
+            android:layout_width="607dp"
+            android:layout_height="73dp"
+            android:layout_marginTop="12dp"
+            android:scaleType="centerInside"
+            android:id="@+id/imageView2"
+            android:src="@drawable/bulbtwo"
+            android:layout_gravity="center" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1" android:background="#ffffff"
+        android:orientation="horizontal"
+        android:layout_marginTop="12dp">
+
+        <TextView
+            android:id="@+id/TextView03"
+            android:layout_marginTop="11dp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="        Rate us -->"
+            android:textSize="21sp"
+            android:textStyle="bold"
+            android:layout_weight="0.5" />
+
+        <RatingBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:numStars="5"
+            android:stepSize="0.1"
+            android:id="@+id/ratingBar"
+            android:layout_gravity="center"
+            android:rating="1.5" />
+
+
+    </LinearLayout>
+
+
+
+
+
+        <AutoCompleteTextView
+            android:layout_width="match_parent"
+            android:layout_marginTop="23dp"
+            android:layout_height="58dp"
+            android:id="@+id/racfId"
+            android:hint="        Please share your thoughts here.." android:singleLine="true" android:imeOptions="actionDone"
+            />
+
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_marginTop="22dp"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/TextView03"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="           Your Domain -->"
+                    android:textSize="21sp"
+                    android:textStyle="bold"/>
+                <Spinner
+                    android:id="@+id/spinner"
+                    style="@android:style/Widget.Spinner.DropDown"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="21sp"
+                    android:drawableRight="@drawable/abc_spinner_mtrl_am_alpha"/>
+            </TableRow>
+
+
+        <Button
+
+            style="?android:textAppearanceSmall"
+            android:layout_width="551dp"
+            android:layout_height="56dp"
+            android:layout_marginTop="26dp"
+            android:layout_marginLeft="18dp"
+            android:text="Share your Feedback"
+            android:textColor="@color/black"
+            android:textSize="28dp"
+             android:background="@color/yellow"
+            android:onClick="feedbackFunction"
+            android:layout_gravity="center"
+            android:id="@+id/feedback" />
+
+    </LinearLayout>
+
+</RelativeLayout>
